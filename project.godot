@@ -35,6 +35,13 @@ _global_script_class_icons={
 config/name="GodotMonoPhysicsRollbackDemo"
 config/icon="res://icon.png"
 
+[autoload]
+
+SyncManager="*res://addons/godot-rollback-netcode/SyncManager.gd"
+SyncDebugger="*res://addons/godot-rollback-netcode/SyncDebugger.gd"
+SyncReplay="*res://addons/godot-rollback-netcode/SyncReplay.gd"
+SyncMonoInit="*res://addons/GodotRollbackNetcodeMono/SyncMonoInit.cs"
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
