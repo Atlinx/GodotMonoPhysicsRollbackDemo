@@ -1,0 +1,8 @@
+[submodule "addons/GodotRollbackNetcodeMono"]
+	path = addons/GodotRollbackNetcodeMono
+	url = https://github.com/Fractural/GodotRollbackNetcodeMono.git
+	branch = release
+[submodule "addons/godot-rollback-netcode"]
+	path = addons/godot-rollback-netcode
+	url = https://github.com/Fractural/GodotRollbackNetcodeMono.git
+	branch = godot-rollback-netcode
